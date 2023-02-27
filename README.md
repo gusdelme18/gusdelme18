@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,angular,express,js,ts,laravel,mongodb,mysql,nodejs,react)
+
+### Hi there 👋
+![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio)
+
